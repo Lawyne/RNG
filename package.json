@@ -1,0 +1,30 @@
+{
+  "name": "random_n_gentil",
+  "version": "1.0.0",
+  "description": "OVA_RP RNG",
+  "main": "index.js",
+  "engines": {
+    "node": "6.11.0"
+  },
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "start": "node index.js"
+},
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lawyne/RNG.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Lawyne/RNG/issues"
+  },
+  "homepage": "https://github.com/Lawyne/RNG#readme"
+}
