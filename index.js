@@ -5,7 +5,7 @@ var prefix = ".";
 var mention = "<@324195670967713792>";
 var memberCount = client.users.size;
 var serverCount = client.guilds.size;
-var ratio = 1;
+var ratio = 29;
 var viewratio = false;
 
 client.on("ready", () => {
