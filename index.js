@@ -6,7 +6,7 @@ var mention = "<@324195670967713792>";
 var memberCount = client.users.size;
 var serverCount = client.guilds.size;
 var ratio = 29;
-var viewratio = false;
+var viewratio = true;
 
 client.on("ready", () => {
 		var servers = client.guilds.array().map(g => g.name).join(',');
